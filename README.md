@@ -27,3 +27,7 @@ Collection of osu! Skins
 ## GAME OVER - A Silver Wolf osu! skin [all modes][HD/SD][16:9]
 ![image](https://github.com/user-attachments/assets/269b03eb-06c3-4895-9262-123055d6dd2d)
 [Download](https://osu.ppy.sh/community/forums/topics/1801331?n=1)
+
+## 星塵 DIVIDE ÷ 8 - A Quaver osu! skin [std/mania][4-9K]
+![image](https://github.com/user-attachments/assets/17aae140-14f0-4278-930f-2505a43a8593)
+[Download](https://osu.ppy.sh/community/forums/topics/1792739?n=1)
