@@ -20,3 +20,10 @@ Collection of osu! Skins
 ![image](https://github.com/user-attachments/assets/f5e087ee-8692-4361-8baa-d54dd4ec0c4c)
 [Download](https://osu.ppy.sh/community/forums/topics/1672096?n=1)
 
+## - {S} FOOL MOON NIGHT/칵스 [HD/SD] [STD/Taiko/Catch/Mania]
+![image](https://github.com/user-attachments/assets/609b976b-4dbc-47c3-94ba-feb9d74e763d)
+[Download](https://osu.ppy.sh/community/forums/topics/1775136?n=1)
+
+## GAME OVER - A Silver Wolf osu! skin [all modes][HD/SD][16:9]
+![image](https://github.com/user-attachments/assets/269b03eb-06c3-4895-9262-123055d6dd2d)
+[Download](https://osu.ppy.sh/community/forums/topics/1801331?n=1)
